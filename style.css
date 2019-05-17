@@ -1,0 +1,6 @@
+html.dark .drawer.wide {
+  width: 270px !important;
+}
+html.dark .app-columns-container {
+  left: -130px !important;
+}
